@@ -1,0 +1,16 @@
+
+.hero-section {
+    background-image: url(/Photos/background.webp);
+}
+
+span {
+    color:#C67025;
+}
+
+.btn {
+    background-color: #F49910;
+}
+
+.btn:hover {
+    background-color: #F49910;
+}
