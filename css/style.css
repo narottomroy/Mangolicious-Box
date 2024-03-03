@@ -1,6 +1,9 @@
 
 .hero-section {
-    background-image: url(/Photos/background.webp);
+    background-image: url(/Photos/stock-vector-yellow-watercolor-background-for-textures-backgrounds-and-web-banners-design-1929622187-transformed.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 span {
